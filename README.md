@@ -1,4 +1,4 @@
-
+:de: :eu: :us: :ukraine:
 Greetings, my name is David. 
 I'm currently improving my python skills while working on a game, which will soon be available here on GitHub. 
 I am familiar with Python, HTML/CSS and JS to a lesser extent. 
