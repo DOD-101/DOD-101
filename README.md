@@ -2,7 +2,7 @@
 
 Greetings, my name is David. 
 
-I'm currently improving my python :snake: skills while working on a game, which will soon be available here on GitHub.
+I'm currently improving my python :snake: skills while working on a game, which is available here on GitHub.
 
 I am familiar with Python, HTML/CSS and JS to a lesser extent. 
 
