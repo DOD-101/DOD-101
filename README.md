@@ -4,7 +4,7 @@ Greetings, my name is David.
 
 I'm currently improving my python :snake: skills while working on a game, which is available here on GitHub.
 
-I am familiar with Python, HTML/CSS and JS to a lesser extent. 
+I am familiar with Python, HTML/CSS, JS and Java to a lesser extent. 
 
 If you wish to contact me my Discord is: .david101 #RIP tags
 <!---
