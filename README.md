@@ -6,7 +6,7 @@ I'm interested in almost anything tech-related.
 
 I mainly work in Python and do some web-dev, although I am always looking to expand my knowledge.
 
-Have a greate day!
+Have a great day!
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=py,lua,html,css,js)](https://skillicons.dev)
