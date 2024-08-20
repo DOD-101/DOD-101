@@ -9,7 +9,7 @@ I mainly work in Python and do some web-dev, although I am always looking to exp
 Have a great day!
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=py,lua,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,lua,html,css,js,rust)](https://skillicons.dev)
 
 ## Tech I use
 [![My Skills](https://skillicons.dev/icons?i=arch,neovim,md)](https://skillicons.dev)
