@@ -4,7 +4,7 @@ My name is David.
 
 I'm interested in almost anything tech-related. 
 
-I mainly work in Python and do some web-dev, although I am always looking to expand my knowledge.
+I am currently learning nix(Os) & rust.
 
 Have a great day!
 
@@ -12,7 +12,7 @@ Have a great day!
 [![My Skills](https://skillicons.dev/icons?i=py,lua,html,css,js,rust)](https://skillicons.dev)
 
 ## Tech I use
-[![My Skills](https://skillicons.dev/icons?i=arch,neovim,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nix,neovim,md)](https://skillicons.dev)
 
 ## ✨ Stats ✨
 
@@ -28,7 +28,6 @@ Generated using [github-stats](https://github.com/jstrieb/github-stats)
 If you wish to contact me: 
 - Discord: .david101
 - Email: pdkfan@gmail.com
-
 
 <!---
 DOD-101/DOD-101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
