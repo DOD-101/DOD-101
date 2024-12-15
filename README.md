@@ -27,7 +27,7 @@ Generated using [github-stats](https://github.com/jstrieb/github-stats)
 
 If you wish to contact me: 
 - Discord: .david101
-- Email: pdkfan@gmail.com
+- Email: david.thievon@proton.me
 
 <!---
 DOD-101/DOD-101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
