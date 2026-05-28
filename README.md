@@ -21,12 +21,16 @@ Have a great day!
 ## ✨ Stats ✨
 
 <!-- Light Mode Images -->
-<img src="https://raw.githubusercontent.com/DOD-101/github-stats-personal/master/generated/languages.svg#gh-light-mode-only" class="light-mode-only" alt="Languages - Light Mode">
-<img src="https://raw.githubusercontent.com/DOD-101/github-stats-personal/master/generated/overview.svg#gh-light-mode-only" class="light-mode-only" alt="Overview - Light Mode">
+<div>
+  <img src="https://github.com/DOD-101/github-stats-personal/blob/generated/languages.svg#gh-light-mode-only" class="light-mode-only" alt="Languages - Light Mode">
+  <img src="https://github.com/DOD-101/github-stats-personal/blob/generated/overview.svg#gh-light-mode-only" class="light-mode-only" alt="Overview - Light Mode">   
+</div>
 
 <!-- Dark Mode Images -->
-<img src="https://raw.githubusercontent.com/DOD-101/github-stats-personal/master/generated/languages.svg#gh-dark-mode-only" class="dark-mode-only" alt="Languages - Dark Mode">
-<img src="https://raw.githubusercontent.com/DOD-101/github-stats-personal/master/generated/overview.svg#gh-dark-mode-only" class="dark-mode-only" alt="Overview - Dark Mode">
+<div>
+  <img src="https://github.com/DOD-101/github-stats-personal/blob/generated/languages.svg#gh-dark-mode-only" class="dark-mode-only" alt="Languages - Dark Mode">
+  <img src="https://github.com/DOD-101/github-stats-personal/blob/generated/overview.svg#gh-dark-mode-only" class="dark-mode-only" alt="Overview - Dark Mode">   
+</div>
 
 Generated using [github-stats](https://github.com/jstrieb/github-stats)
 
